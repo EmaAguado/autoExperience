@@ -1,0 +1,1 @@
+python -m auto_py_to_exe --config "config_compile.json"

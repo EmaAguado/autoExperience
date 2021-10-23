@@ -1,0 +1,2 @@
+autoExperience.exe
+pause;
